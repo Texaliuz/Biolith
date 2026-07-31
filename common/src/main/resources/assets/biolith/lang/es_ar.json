@@ -1,5 +1,7 @@
 {
   "modmenu.descriptionTranslation.biolith": "Utilidades de generación de mundos de Terraformers",
+  "fml.menu.mods.info.description.biolith": "Utilidades de generación de mundos de Terraformers",
+
   "biolith.command.describe.header": "valores del bioma",
   "biolith.command.describe.biome.vanilla": "Bioma vanilla/de datos: ",
   "biolith.command.describe.biome.terrablender": "Bioma de TerraBlender: ",
