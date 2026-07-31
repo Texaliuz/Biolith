@@ -1,0 +1,21 @@
+{
+  "modmenu.descriptionTranslation.biolith": "Utilidades de generación de mundos de Terraformers",
+  "biolith.command.describe.header": "valores del bioma",
+  "biolith.command.describe.biome.vanilla": "Bioma vanilla/de datos: ",
+  "biolith.command.describe.biome.terrablender": "Bioma de TerraBlender: ",
+  "biolith.command.describe.biome.moderner_beta": "Bioma de Moderner Beta: ",
+  "biolith.command.describe.biome.replacement": "Bioma de reemplazo: ",
+  "biolith.command.describe.biome.sub": "Subbioma seleccionado: ",
+  "biolith.command.describe.biome.nearest": "más cercano: ",
+  "biolith.command.describe.biome.none": "(ninguno)",
+  "biolith.command.describe.biome.scale": "escala",
+  "biolith.command.describe.nonPlayer": "Quien ejecuta el comando no es un jugador; por favor indicá una entidad o posición.",
+  "biolith.command.describe.notOurs": "La dimensión de destino no está modificada por Biolith.",
+  "biolith.command.help": "Opciones de comando:\n  §9/biolith help§r - Información del comando Biolith\n  §9/biolith describe§r - Información de biomas y ruido",
+  "biolith.command.help.missing": "§eNo hay ayuda disponible para el comando especificado.",
+  "biolith.command.help.describe": "§9/biolith describe [at (<entidad>|<posición>)]§r - Información sobre selección de biomas y ruido",
+  "biolith.command.hint": "§6(Probá con \"§9/biolith help§6\" para ver información del comando...)",
+  "biolith.world.minecraft.the_end": "El End",
+  "biolith.world.minecraft.the_nether": "El Nether",
+  "biolith.world.minecraft.overworld": "Overworld"
+}
